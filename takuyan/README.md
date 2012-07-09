@@ -16,7 +16,20 @@
 
 ##今日できたこと
 
+* sendagaya.rb に慣れた
+
 ##今日学んだこと や ハマったこと
 
+* @fukajun さんと @ppworks さんから Backbone.js を学んだ
+* [Pro Git](http://git-scm.com/book/ja) を読むべき
+* backbone関連の以下のものを読むべき
+** [backbone.js](http://documentcloud.github.com/backbone/docs/backbone.html)
+** [Backbone.js on Rails](https://workshops.thoughtbot.com/products/1-backbone-js-on-rails)
+* 喋りっぱなしで全然もくもくしてない
+* でもたのしい
+
 ##今日やってみて疑問に思ったこと
+
+* 英語力だいじ
+
 
